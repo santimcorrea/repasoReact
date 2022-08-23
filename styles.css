@@ -1,0 +1,35 @@
+.card{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: auto;
+}
+
+.card-img-top{
+    border-radius: 200px;
+}
+
+.medium{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.card{
+    background-image: url("https://static.videezy.com/system/resources/thumbnails/000/043/897/original/200206_01_Particle-star-fall-seamless-loop.jpg");
+    border-radius: 50px;
+}
+
+body{
+    background-image: url("https://actualidadinformaticacom.files.wordpress.com/2020/03/cropped-ver-ingenierc3ada-en-informc3a1tica-1-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.white{
+    color: white;
+}
+
+.boton{
+    margin: 20px;
+}
